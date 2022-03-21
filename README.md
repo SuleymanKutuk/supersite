@@ -1,5 +1,5 @@
 # supersite
 
-local
+local.
 
 i love wild school
